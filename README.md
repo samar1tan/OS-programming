@@ -18,11 +18,11 @@ programming when learning undergraduate-level operating system course
 [*ucore*](https://github.com/chyyuu/ucore_os_lab), [designed by Tsinghua University](http://os.cs.tsinghua.edu.cn/oscourse/OS2019spring) and [released in xuetangx.com](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/info)
 ### Assignments
 gradually implement a tiny OS in 10000-line codes, including
-1. 0200~1800 Lines  Bootloader/Interrupt/Device Drive                
-2. 1800~2500 Lines  Physical Memory Management                       
-3. 2500~3200 Lines  Virtual Memory Management                        
-4. 3200~3600 Lines  Kernel Thread Management                         
-5. 3600~4300 Lines  User Process Management                          
-6. 4300~5100 Lines  Processor Scheduling                             
-7. 5100~6400 Lines  Process Synchronization/Mutex                    
-8. 6400~9999 Lines  File System：                                    
+- 0200~1800 Lines  Bootloader/Interrupt/Device Drive                
+- 1800~2500 Lines  Physical Memory Management                       
+- 2500~3200 Lines  Virtual Memory Management                        
+- 3200~3600 Lines  Kernel Thread Management                         
+- 3600~4300 Lines  User Process Management                          
+- 4300~5100 Lines  Processor Scheduling                             
+- 5100~6400 Lines  Process Synchronization/Mutex                    
+- 6400~9999 Lines  File System：                                    
