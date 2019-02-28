@@ -16,6 +16,8 @@ programming when learning undergraduate-level operating system course
 8 labs
 ### Platform
 [*ucore*](https://github.com/chyyuu/ucore_os_lab), [designed by Tsinghua University](http://os.cs.tsinghua.edu.cn/oscourse/OS2019spring) and [released in xuetangx.com](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/info)
+### Manual
+[ucore_os_docs](https://chyyuu.gitbooks.io/ucore_os_docs/content/) on gitbook
 ### Assignments
 gradually implement a tiny X86-32 OS in 10000-line C codes, including
 - 0200~1800 Lines  **Bootloader/Interrupt/Device Drive**
