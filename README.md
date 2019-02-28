@@ -17,7 +17,7 @@ programming when learning undergraduate-level operating system course
 ### Platform
 [*ucore*](https://github.com/chyyuu/ucore_os_lab), a simple Unix-like teaching operating system, [redesigned](http://os.cs.tsinghua.edu.cn/oscourse/OS2019spring) by Tsinghua University, [based](https://pdos.csail.mit.edu/6.828/2012/xv6.html) on *xv6* from MIT and [released](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/info) in xuetangx.com.
 ### Manual
-[ucore_os_docs]https://objectkuan.gitbooks.io/ucore-docs/index.html) on gitbook
+[ucore_os_docs](https://objectkuan.gitbooks.io/ucore-docs/index.html) on gitbook
 ### Assignments
 gradually implement a tiny X86-32 OS in 10000-line C codes, including
 - 0200~1800 Lines  **Bootloader/Interrupt/Device Drive**
