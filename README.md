@@ -20,7 +20,7 @@ programming when learning undergraduate-level operating system course
 [ucore_os_docs (2017)](https://chyyuu.gitbooks.io/ucore_os_docs/content/) on gitbook
 ### Assignments
 gradually implement a tiny X86-32 OS in 10000-line C codes, including
-- 0200~1800 Lines  **Bootloader/Interrupt/Device Drive**
+- 0200~1800 Lines **Boot/Protect Mode/Stack/Interrupt**
 - 1800~2500 Lines **Physical Memory Management**                       
 - 2500~3200 Lines **Virtual Memory Management**                        
 - 3200~3600 Lines **Kernel Thread Management**                         
