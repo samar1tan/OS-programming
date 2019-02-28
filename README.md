@@ -28,3 +28,4 @@ gradually implement a tiny X86-32 OS in 10000-line C codes, including
 - 4300~5100 Lines **Processor Scheduling**                             
 - 5100~6400 Lines **Process Synchronization/Mutex**                    
 - 6400~9999 Lines **File System**                                
+![system-overview](data/system-overview.png)
