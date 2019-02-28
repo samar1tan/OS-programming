@@ -15,7 +15,7 @@ programming when learning undergraduate-level operating system course
 ## Extra Course
 8 labs
 ### Platform
-[*ucore*](https://github.com/chyyuu/ucore_os_lab), [designed by Tsinghua University](http://os.cs.tsinghua.edu.cn/oscourse/OS2019spring) and [released in xuetangx.com](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/info)
+[*ucore*](https://github.com/chyyuu/ucore_os_lab), [redesigned by Tsinghua University](http://os.cs.tsinghua.edu.cn/oscourse/OS2019spring) , based on [*xv6*](https://pdos.csail.mit.edu/6.828/2012/xv6.html) from MIT and [released in xuetangx.com](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/info)
 ### Manual
 [ucore_os_docs](https://chyyuu.gitbooks.io/ucore_os_docs/content/) on gitbook
 ### Assignments
