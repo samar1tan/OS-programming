@@ -9,8 +9,8 @@ programming when learning undergraduate-level operating system course
 - Official [lecture slides](http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=2217&itemId=0471694665&resourceId=5004)
 - [Solutions to Practice Exercises](https://www.academia.edu/8396518/Operating_System_Concepts_7th_edtion_Solution_Manual)
 - Other official [online resources (for 9th edition)](http://os-book.com/OS9/index.html)
-### Assignments
-1. Programming exercises
+### Assignments (based on 9th edition, NOT 7th edition)
+1. Programming problems
 2. Programming projects
 ## Extra Course
 8 labs
