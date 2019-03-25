@@ -11,7 +11,7 @@ programming when learning undergraduate-level operating system course
     - link: https://pan.baidu.com/s/1SZelYI7-1PYGAimN78DxqQ
     - passcode: 26ko 
 - [Solutions to Practice Exercises](data/Operating_System_Concepts_7th_edtion_Solution_Manual.pdf)
-  - another version: 
+  - another version
     - [操作系统概念教材第7版课后练习答案(英文完整版)](data/操作系统概念教材第7版课后练习答案(英文完整版).pdf)
 - Official [lecture slides](http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=2217&itemId=0471694665&resourceId=5004) 
 #### 9th Edition
