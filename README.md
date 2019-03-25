@@ -8,10 +8,11 @@ programming when learning undergraduate-level operating system course
 #### 7th Edition
 - [*Operating System Concepts*](https://it325blog.files.wordpress.com/2012/09/operating-system-concepts-7-th-edition.pdf), 7th edition
   - alternative downloading
-    - link：https://pan.baidu.com/s/1SZelYI7-1PYGAimN78DxqQ
-    - passcode：26ko 
+    - link: https://pan.baidu.com/s/1SZelYI7-1PYGAimN78DxqQ
+    - passcode: 26ko 
 - [Solutions to Practice Exercises](data/Operating_System_Concepts_7th_edtion_Solution_Manual.pdf)
-  - another version: [操作系统概念教材第7版课后练习答案(英文完整版)](data/操作系统概念教材第7版课后练习答案(英文完整版).pdf)
+  - another version: 
+    - [操作系统概念教材第7版课后练习答案(英文完整版)](data/操作系统概念教材第7版课后练习答案(英文完整版).pdf)
 - Official [lecture slides](http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=2217&itemId=0471694665&resourceId=5004) 
 #### 9th Edition
 - [*Operating System Concepts*](data/[Operating.System.Concepts(9th,2012.12)].Abraham.Silberschatz.文字版.pdf), 9th edition
