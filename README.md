@@ -6,7 +6,9 @@ programming when learning undergraduate-level operating system course
 [《操作系统概念》（第七版）](https://book.douban.com/subject/4289836/)
 ### Resources
 - [*Operating System Concepts*](https://it325blog.files.wordpress.com/2012/09/operating-system-concepts-7-th-edition.pdf), 7th edition
-  - alternative downloading: link：https://pan.baidu.com/s/1SZelYI7-1PYGAimN78DxqQ passcode：26ko 
+  - alternative downloading: 
+    - link：https://pan.baidu.com/s/1SZelYI7-1PYGAimN78DxqQ
+    - passcode：26ko 
 - [*Operating System Concepts*](data/[Operating.System.Concepts(9th,2012.12)].Abraham.Silberschatz.文字版.pdf), 9th edition
 - Official [lecture slides](http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=2217&itemId=0471694665&resourceId=5004) (for 7th edition)
 - [Solutions to Practice Exercises](data/Operating_System_Concepts_7th_edtion_Solution_Manual.pdf) (for 7th edition)
