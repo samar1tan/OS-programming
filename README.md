@@ -12,6 +12,7 @@ programming when learning undergraduate-level operating system course
 - [*Operating System Concepts*](data/[Operating.System.Concepts(9th,2012.12)].Abraham.Silberschatz.文字版.pdf), 9th edition
 - Official [lecture slides](http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=2217&itemId=0471694665&resourceId=5004) (for 7th edition)
 - [Solutions to Practice Exercises](data/Operating_System_Concepts_7th_edtion_Solution_Manual.pdf) (for 7th edition)
+  - Another version: [操作系统概念教材第7版课后练习答案(英文完整版)](data/操作系统概念教材第7版课后练习答案(英文完整版).pdf)
 - [C and Java Source Code](https://github.com/greggagne/OSC9e) (for 9th edition)
 - Other official [online resources](http://os-book.com/OS9/index.html) (for 9th edition)
 ### Assignments (based on 9th edition / 7th edition)
