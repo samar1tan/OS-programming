@@ -26,7 +26,7 @@ void pickup_forks(const int phi_id) {
 	while(true) {
 		// looking & waiting
 		int smirk_cnt = 0; // for reducing printing
-		// TODO: can we fix "inner" delay on forks' states here?
+		// TODO: can we fix sync delay on forks' states here?
 		//  Namely, left (right) -hand is set free after querying in where-clause and it leads to meaningless waiting,
 		//  and then we need a "cleanup" procedure (additional signal()) in leave() to fix the deadlock.
 		while (!lefthand.is_free || !righthand.is_free) {
@@ -101,8 +101,12 @@ void think(const int phi_id) {
 	sleep(get_duration());
 }
 
-// TODO: is "cleanup" necessary? Or more radically, can we fix "inner" delay in return_forks()?
+// TODO: cleanup is unreliable because it take in effect by waiting indefinite amount of seconds in think()
+//  Furthermore, is cleanup necessary? Can we fix sync delay in return_forks()? 
 void leave_and_cleanup(const int phi_id) {
+	// these asynchronized signal()
+	//  may become invaild confronted with OS dispatch in rare situation, like 
+	//  neighboring philosopher queries but doesn't enter waiting until this philosopher leaves
 	Fork& lefthand = forks[phi_id];
 	pthread_cond_signal(&lefthand.notifier);
 
